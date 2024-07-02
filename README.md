@@ -1,4 +1,4 @@
-# Vendor Performance : A Comprehensive Analysis Looker Studio
+# Vendor Performance : A Comprehensive Analysis 
 
 Vendor performance analysis is a critical component of maintaining operational excellence and ensuring service quality in any organization. Effective vendor performance analysis not only helps in identifying areas where vendors excel but also highlights potential inefficiencies and areas for improvement. By leveraging data on service start times, slot times, delays, and other performance indicators, organizations can gain valuable insights into their vendors' reliability and efficiency.  
 
